@@ -2,7 +2,7 @@
 - loading data from here ( https://www.kaggle.com/datasets/alincijov/bilingual-sentence-pairs )
 # review 
 - seq2seq model has wide variance application in NLP such as Machine Translation task
-# lt's talk about notebook 
+# let's talk about notebook 
 - first you will load your dataset and split it into lines each line has a tow different languages
 - so let's split data and store it in a list to do some operations
 - clean data by 1.remove punctuation 2. do lower case
